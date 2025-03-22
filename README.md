@@ -4,7 +4,15 @@ This is a full-stack data visualization dashboard built using Node.js, Express, 
 
 ## Preview
 
+![Image](https://github.com/user-attachments/assets/96eb4b83-32b2-4867-aed7-720c8d654032)
 
+![Image](https://github.com/user-attachments/assets/cc0bf3e1-a927-4fbe-a8b1-8afcafbe5a43)
+
+![Image](https://github.com/user-attachments/assets/8dfa2ace-557b-4e95-9f75-10393176134c)
+
+![Image](https://github.com/user-attachments/assets/eb50eaa0-707d-4633-949d-43a495ab5bb1)
+
+![Image](https://github.com/user-attachments/assets/1e588a39-e915-492b-93f9-de7f5733b7b2)
 
 ## Features
 
