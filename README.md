@@ -4,7 +4,7 @@ This is a full-stack data visualization dashboard built using Node.js, Express, 
 
 ## Preview
 
-
+https://github.com/atharvthakle/Data-Visualization-Dashboard/raw/refs/heads/main/Data%20Visualization%20Dashboard%20Preview.mp4
 
 ## Features
 
